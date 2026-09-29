@@ -1,0 +1,171 @@
+{
+  "projects": [
+    {
+      "name": "Gestión Dynamo",
+      "leaderOnly": true
+    },
+    {
+      "name": "Otras actividades",
+      "leaderOnly": false
+    },
+    {
+      "name": "Gestión de Oportunidades",
+      "leaderOnly": false
+    }
+  ],
+  "activities": [
+    {
+      "name": "Capacitación",
+      "leaderOnly": false
+    },
+    {
+      "name": "Tarea Interna",
+      "leaderOnly": false
+    },
+    {
+      "name": "Colaboración Interna",
+      "leaderOnly": false
+    },
+    {
+      "name": "Coordinación Interna",
+      "leaderOnly": true
+    },
+    {
+      "name": "Reclutamiento",
+      "leaderOnly": true
+    },
+    {
+      "name": "Capacity",
+      "leaderOnly": true
+    },
+    {
+      "name": "Ausencia - Licencias Reglamentarias",
+      "leaderOnly": false
+    },
+    {
+      "name": "Certificación MSFT",
+      "leaderOnly": false
+    },
+    {
+      "name": "Ausencia - Otros",
+      "leaderOnly": false
+    },
+    {
+      "name": "Ausencia - Enfermedad",
+      "leaderOnly": false
+    },
+    {
+      "name": "Ausencia - Feriado",
+      "leaderOnly": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "Gestión Interna",
+      "leaderOnly": true
+    },
+    {
+      "name": "Capacitacion",
+      "leaderOnly": false
+    },
+    {
+      "name": "Tarea Interna",
+      "leaderOnly": false
+    },
+    {
+      "name": "Colaboración Interna",
+      "leaderOnly": false
+    },
+    {
+      "name": "Oportunidades",
+      "leaderOnly": false
+    },
+    {
+      "name": "Ausencia",
+      "leaderOnly": false
+    },
+    {
+      "name": "Licencia",
+      "leaderOnly": false
+    }
+  ],
+  "combos": [
+    {
+      "project": "Gestión Dynamo",
+      "activity": "Coordinación Interna",
+      "category": "Gestión Interna",
+      "name": "Coordinación Interna",
+      "leaderOnly": true
+    },
+    {
+      "project": "Gestión Dynamo",
+      "activity": "Reclutamiento",
+      "category": "Gestión Interna",
+      "name": "Reclutamiento",
+      "leaderOnly": true
+    },
+    {
+      "project": "Gestión Dynamo",
+      "activity": "Capacity",
+      "category": "Gestión Interna",
+      "name": "Capacity",
+      "leaderOnly": true
+    },
+    {
+      "project": "Otras actividades",
+      "activity": "Capacitación",
+      "category": "Capacitacion",
+      "name": "Capacitación",
+      "leaderOnly": false
+    },
+    {
+      "project": "Otras actividades",
+      "activity": "Ausencia - Licencias Reglamentarias",
+      "category": "Licencia",
+      "name": "Licencia Reglamentaria",
+      "leaderOnly": false
+    },
+    {
+      "project": "Otras actividades",
+      "activity": "Tarea Interna",
+      "category": "Tarea Interna",
+      "name": "Tarea Interna",
+      "leaderOnly": false
+    },
+    {
+      "project": "Otras actividades",
+      "activity": "Certificación MSFT",
+      "category": "Capacitacion",
+      "name": "Certificación MSFT",
+      "leaderOnly": false
+    },
+    {
+      "project": "Otras actividades",
+      "activity": "Colaboración Interna",
+      "category": "Colaboración Interna",
+      "name": "Colaboración Interna",
+      "leaderOnly": false
+    },
+    {
+      "project": "Otras actividades",
+      "activity": "Ausencia - Otros",
+      "category": "Ausencia",
+      "name": "Ausencia - Otros",
+      "leaderOnly": false
+    },
+    {
+      "project": "Otras actividades",
+      "activity": "Ausencia - Enfermedad",
+      "category": "Ausencia",
+      "name": "Enfermedad",
+      "leaderOnly": false
+    },
+    {
+      "project": "Otras actividades",
+      "activity": "Ausencia - Feriado",
+      "category": "Licencia",
+      "name": "Feriado",
+      "leaderOnly": false
+    }
+  ]
+}
