@@ -1,0 +1,98 @@
+[
+  {
+    "id": 58111,
+    "name": "Actividad en cliente",
+    "trex_type": "__ignore__",
+    "activa_checklist_ooo": false
+  },
+  {
+    "id": 61935,
+    "name": "Adelanto Vacaciones ",
+    "trex_type": "Licencia Reglamentaria",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 58811,
+    "name": "Asunto personal",
+    "trex_type": "Ausencia - Otros",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 58107,
+    "name": "Ausencia no remunerada",
+    "trex_type": "Licencia Reglamentaria",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 59505,
+    "name": "Ausencia por feriado trabajado",
+    "trex_type": "Feriado",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 59508,
+    "name": "Ausencia por servicio programado",
+    "trex_type": "Ausencia - Otros",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 58105,
+    "name": "Duelo",
+    "trex_type": "Licencia Reglamentaria",
+    "activa_checklist_ooo": false
+  },
+  {
+    "id": 58109,
+    "name": "Enfermedad",
+    "trex_type": "Enfermedad",
+    "activa_checklist_ooo": false
+  },
+  {
+    "id": 59237,
+    "name": "Especial",
+    "trex_type": "Ausencia - Otros",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 58106,
+    "name": "Estudio",
+    "trex_type": "Licencia Reglamentaria",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 60646,
+    "name": "Feriado 18 de julio",
+    "trex_type": "Feriado",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 60904,
+    "name": "Feriado trabajado",
+    "trex_type": "__ignore__",
+    "activa_checklist_ooo": false
+  },
+  {
+    "id": 58103,
+    "name": "Maternidad",
+    "trex_type": "Licencia Reglamentaria",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 58104,
+    "name": "Matrimonio",
+    "trex_type": "Licencia Reglamentaria",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 58102,
+    "name": "Paternidad",
+    "trex_type": "Licencia Reglamentaria",
+    "activa_checklist_ooo": true
+  },
+  {
+    "id": 58108,
+    "name": "Vacaciones",
+    "trex_type": "Licencia Reglamentaria",
+    "activa_checklist_ooo": true
+  }
+]
