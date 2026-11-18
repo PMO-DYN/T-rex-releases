@@ -11,6 +11,14 @@
     {
       "name": "Gestión de Oportunidades",
       "leaderOnly": false
+    },
+    {
+      "name": "Mejora Interna",
+      "leaderOnly": false
+    },
+    {
+      "name": "Producto",
+      "leaderOnly": false
     }
   ],
   "activities": [
